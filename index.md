@@ -16,18 +16,20 @@ In our meetings, we present/discuss papers appearing in the leading computer vis
 
 ### Schedule of talks
 
-We generally hold our meetings weekly on Mondays. If you would like to join or give a talk, get in touch! 
+We generally hold our meetings weekly on Mondays. If you would like to join or give a talk, send an [email](mailto:aarash.feizi@mail.mcgill.ca)! 
 
 | Date          | Presenter             | Title                                                                                  | Slides |
 |---------------|-----------------------|----------------------------------------------------------------------------------------|--------|
 | 06-06-2022 | Aarash Feizi          | MaskCOV: A random mask covariance network for ultra-fine-grained visual categorization | [link](https://docs.google.com/presentation/d/163OAclmAgfXvf0f_f0kiGJ_hbuErWRVMC-ZyTYj7UGI/edit?usp=sharing)   |
 | 13-06-2022 | Oren Kraus            | Augmenting Convolutional networks with attention-based aggregation                     | [link](/assets/slides/spatial-attention.pdf)   |
-| 20-06-2022 | Pierre-Luc St-Charles | Masked Autoencoders Are Scalable Vision Learners                                       | link   |
+| 20-06-2022 | Pierre-Luc St-Charles | Masked Autoencoders Are Scalable Vision Learners                                       | -   |
 | 27-06-2022 | Aarash Feizi          | Head2Toe: Utilizing Intermediate Representations for Better Transfer Learning          | [link](https://docs.google.com/presentation/d/1F58uAriMnIGHAZPRuOjTcU8Ai9LGXSepFL_PLvIkoOw/edit?usp=sharing)   |
 | 04-07-2022 | Adam Tupper           | Open-World Semi-Supervised Learning                                                    | [link](https://docs.google.com/presentation/d/17_4ORFY5tIKGytGTYwLvrF3bs38d-1qehzlzU0ZLZBs/edit?usp=sharing)   |
 | 11-07-2022 | Sabyasachi Sahoo      | Generalized Out-of-Distribution Detection: A Survey                                    | [link](https://docs.google.com/presentation/d/16kk_nqtkBoKbdz5mlqwJeDS6X2UgvH96X3qZQRIcgb0/edit?usp=sharing)   |
 | 18-07-2022 | ICML                  | ICML                                                                                   |        |
 | 25-07-2022 |                       |                                                                                        |        |
+---------------------------------------------------------------------------------------------------------------------------------------------                     
+
 
 ###Contact
 
