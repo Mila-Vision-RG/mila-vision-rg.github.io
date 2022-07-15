@@ -1,37 +1,68 @@
-## Welcome to GitHub Pages
+## Welcome Mila's Computer Vision Reading Group
 
-You can use the [editor on GitHub](https://github.com/Mila-Vision-RG/mila-vision-rg.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+This is the webpage for the computer vision reading groups at [Mila - Quebec AI Institute](https://mila.quebec/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In our meetings, we present/discuss papers appearing in the leading computer vision conferences (e.g., CVPR, ICCV, ECCV, …) and machine learning conferences (e.g., NeurIPS, ICML, ICLR, AAAI, …) and also related ideas.
 
-### Markdown
+### Topics of interest:
+ - Image Representation/Metric Learning
+ - Self-Supervised Learning
+ - Few-shot Learning
+ - Visual Question Answering (VQA)
+ - Generative Models
+ - ...
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Schedule of talks
 
-- Bulleted
-- List
+We generally hold our meetings weekly on Mondays. If you would like to join or give a talk, get in touch! 
 
-1. Numbered
-2. List
+| Date          | Presenter             | Title                                                                                  | Slides |
+|---------------|-----------------------|----------------------------------------------------------------------------------------|--------|
+| June 6, 2022  | Aarash Feizi          | MaskCOV: A random mask covariance network for ultra-fine-grained visual categorization | [link](https://docs.google.com/presentation/d/163OAclmAgfXvf0f_f0kiGJ_hbuErWRVMC-ZyTYj7UGI/edit?usp=sharing)   |
+| June 13, 2022 | Oren Kraus            | Augmenting Convolutional networks with attention-based aggregation                     | [link](/assets/slides/spatial-attention.pdf)   |
+| June 20, 2022 | Pierre-Luc St-Charles | Masked Autoencoders Are Scalable Vision Learners                                       | link   |
+| June 27, 2022 | Aarash Feizi          | Head2Toe: Utilizing Intermediate Representations for Better Transfer Learning          | [link](https://docs.google.com/presentation/d/1F58uAriMnIGHAZPRuOjTcU8Ai9LGXSepFL_PLvIkoOw/edit?usp=sharing)   |
+| July 4, 2022  | Adam Tupper           | Open-World Semi-Supervised Learning                                                    | [link](https://docs.google.com/presentation/d/17_4ORFY5tIKGytGTYwLvrF3bs38d-1qehzlzU0ZLZBs/edit?usp=sharing)   |
+| July 11, 2022 | Sabyasachi Sahoo      | Generalized Out-of-Distribution Detection: A Survey                                    | [link](https://docs.google.com/presentation/d/16kk_nqtkBoKbdz5mlqwJeDS6X2UgvH96X3qZQRIcgb0/edit?usp=sharing)   |
+| July 18, 2022 | ICML                  | ICML                                                                                   |        |
+| July 25, 2022 |                       |                                                                                        |        |
 
-**Bold** and _Italic_ and `Code` text
+####Contact
 
-[Link](url) and ![Image](src)
-```
+[Email](mailto:aarash.feizi@mail.mcgill.ca)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+[comment]: <> (```markdown)
 
-### Jekyll Themes
+[comment]: <> (Syntax highlighted code block)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mila-Vision-RG/mila-vision-rg.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[comment]: <> (# Header 1)
 
-### Support or Contact
+[comment]: <> (## Header 2)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[comment]: <> (### Header 3)
+
+[comment]: <> (- Bulleted)
+
+[comment]: <> (- List)
+
+[comment]: <> (1. Numbered)
+
+[comment]: <> (2. List)
+
+[comment]: <> (**Bold** and _Italic_ and `Code` text)
+
+[comment]: <> ([Link]&#40;url&#41; and ![Image]&#40;src&#41;)
+
+[comment]: <> (```)
+
+[comment]: <> (For more details see [Basic writing and formatting syntax]&#40;https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax&#41;.)
+
+[comment]: <> (### Jekyll Themes)
+
+[comment]: <> (Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings]&#40;https://github.com/Mila-Vision-RG/mila-vision-rg.github.io/settings/pages&#41;. The name of this theme is saved in the Jekyll `_config.yml` configuration file.)
+
+[comment]: <> (### Support or Contact)
+
+[comment]: <> (Having trouble with Pages? Check out our [documentation]&#40;https://docs.github.com/categories/github-pages-basics/&#41; or [contact support]&#40;https://support.github.com/contact&#41; and we’ll help you sort it out.)
