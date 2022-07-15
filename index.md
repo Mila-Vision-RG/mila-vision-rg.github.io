@@ -28,7 +28,9 @@ We generally hold our meetings weekly on Mondays. If you would like to join or g
 | 11-07-2022 | Sabyasachi Sahoo      | Generalized Out-of-Distribution Detection: A Survey                                    | [link](https://docs.google.com/presentation/d/16kk_nqtkBoKbdz5mlqwJeDS6X2UgvH96X3qZQRIcgb0/edit?usp=sharing)   |
 | 18-07-2022 | ICML                  | ICML                                                                                   |        |
 | 25-07-2022 |                       |                                                                                        |        |
----------------------------------------------------------------------------------------------------------------------------------------------                     
+                     
+
+
 
 
 ###Contact
