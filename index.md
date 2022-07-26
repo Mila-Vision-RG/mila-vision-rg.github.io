@@ -27,13 +27,13 @@ We generally hold our meetings weekly on Mondays. If you would like to join or g
 | 04-07-2022 | Adam Tupper           | Open-World Semi-Supervised Learning                                                    | [link](https://docs.google.com/presentation/d/17_4ORFY5tIKGytGTYwLvrF3bs38d-1qehzlzU0ZLZBs/edit?usp=sharing)   |
 | 11-07-2022 | Sabyasachi Sahoo      | Generalized Out-of-Distribution Detection: A Survey                                    | [link](https://docs.google.com/presentation/d/16kk_nqtkBoKbdz5mlqwJeDS6X2UgvH96X3qZQRIcgb0/edit?usp=sharing)   |
 | 18-07-2022 | ICML                  | ICML                                                                                   |        |
-| 25-07-2022 |                       |                                                                                        |        |
+| 25-07-2022 | Aarash Feizi          | Adversarial Masking for Self-Supervised Learning                  |        |
                      
 
 
 
 
-###Contact
+### Contact
 
 [Email](mailto:aarash.feizi@mail.mcgill.ca)
 
