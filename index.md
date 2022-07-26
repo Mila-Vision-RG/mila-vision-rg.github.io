@@ -1,4 +1,4 @@
-## Welcome Mila's Computer Vision Reading Group
+## Mila Vision Reading Group
 
 This is the webpage for the computer vision reading groups at [Mila - Quebec AI Institute](https://mila.quebec/).
 
