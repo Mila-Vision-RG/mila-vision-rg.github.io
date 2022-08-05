@@ -20,14 +20,16 @@ We generally hold our meetings weekly on Mondays. If you would like to join or g
 
 | Date          | Presenter             | Title                                                                                  | Slides |
 |---------------|-----------------------|----------------------------------------------------------------------------------------|--------|
-| <span style="font-size:0.9em;">06/06/2022</span> | Aarash Feizi          | MaskCOV: A random mask covariance network for ultra-fine-grained visual categorization | [link](https://docs.google.com/presentation/d/163OAclmAgfXvf0f_f0kiGJ_hbuErWRVMC-ZyTYj7UGI/edit?usp=sharing)   |
-| <span style="font-size:0.9em;">13/06/2022</span> | Oren Kraus            | Augmenting Convolutional networks with attention-based aggregation                     | [link](/assets/slides/spatial-attention.pdf)   |
-| <span style="font-size:0.9em;">20/06/2022</span> | Pierre-Luc St-Charles | Masked Autoencoders Are Scalable Vision Learners                                       | -   |
-| <span style="font-size:0.9em;">27/06/2022</span> | Aarash Feizi          | Head2Toe: Utilizing Intermediate Representations for Better Transfer Learning          | [link](https://docs.google.com/presentation/d/1F58uAriMnIGHAZPRuOjTcU8Ai9LGXSepFL_PLvIkoOw/edit?usp=sharing)   |
-| <span style="font-size:0.9em;">04/07/2022</span> | Adam Tupper           | Open-World Semi-Supervised Learning                                                    | [link](https://docs.google.com/presentation/d/17_4ORFY5tIKGytGTYwLvrF3bs38d-1qehzlzU0ZLZBs/edit?usp=sharing)   |
-| <span style="font-size:0.9em;">11/07/2022</span> | Sabyasachi Sahoo      | Generalized Out-of-Distribution Detection: A Survey                                    | [link](https://docs.google.com/presentation/d/16kk_nqtkBoKbdz5mlqwJeDS6X2UgvH96X3qZQRIcgb0/edit?usp=sharing)   |
-| <span style="font-size:0.9em;">18/07/2022</span> | ICML                  | ICML                                                                                   |        |
-| <span style="font-size:0.9em;">25/07/2022</span> | Aarash Feizi          | Adversarial Masking for Self-Supervised Learning                  |        |
+| <span style="font-size:0.9em;">06/06/2022</span> | [Aarash Feizi](https://aarashfeizi.github.io/)          | MaskCOV: A random mask covariance network for ultra-fine-grained visual categorization | [link](https://docs.google.com/presentation/d/163OAclmAgfXvf0f_f0kiGJ_hbuErWRVMC-ZyTYj7UGI/edit?usp=sharing)   |
+| <span style="font-size:0.9em;">13/06/2022</span> | [Oren Kraus](https://scholar.google.ca/citations?user=FKjbtg8AAAAJ&hl=en)            | Augmenting Convolutional networks with attention-based aggregation                     | [link](/assets/slides/spatial-attention.pdf)   |
+| <span style="font-size:0.9em;">20/06/2022</span> | [Pierre-Luc St-Charles](https://scholar.google.ca/citations?user=30mr9vYAAAAJ&hl=en) | Masked Autoencoders Are Scalable Vision Learners                                       | -   |
+| <span style="font-size:0.9em;">27/06/2022</span> | [Aarash Feizi](https://aarashfeizi.github.io/)          | Head2Toe: Utilizing Intermediate Representations for Better Transfer Learning          | [link](https://docs.google.com/presentation/d/1F58uAriMnIGHAZPRuOjTcU8Ai9LGXSepFL_PLvIkoOw/edit?usp=sharing)   |
+| <span style="font-size:0.9em;">04/07/2022</span> | [Adam Tupper](https://www.adamtupper.nz/)           | Open-World Semi-Supervised Learning                                                    | [link](https://docs.google.com/presentation/d/17_4ORFY5tIKGytGTYwLvrF3bs38d-1qehzlzU0ZLZBs/edit?usp=sharing)   |
+| <span style="font-size:0.9em;">11/07/2022</span> | [Sabyasachi Sahoo](https://sabyasachis.github.io/)      | Generalized Out-of-Distribution Detection: A Survey                                    | [link](https://docs.google.com/presentation/d/16kk_nqtkBoKbdz5mlqwJeDS6X2UgvH96X3qZQRIcgb0/edit?usp=sharing)   |
+| <span style="font-size:0.9em;">18/07/2022</span> | ICML                  | ICML                                                                                   |    -    |
+| <span style="font-size:0.9em;">25/07/2022</span> | [Aarash Feizi](https://aarashfeizi.github.io/)          | Adversarial Masking for Self-Supervised Learning                                       |  [link](https://docs.google.com/presentation/d/1vwmDGrJl29jzNtR3ilqMAmEIgxpeD_32dDO8t3lkex0/edit?usp=sharing)  |
+| <span style="font-size:0.9em;">08/08/2022</span> | [Muawiz Chaudhary](https://scholar.google.com/citations?user=4Z8ePskAAAAJ&hl=en)      |                                                                   |        |
+| <span style="font-size:0.9em;">15/08/2022</span> | [Adam Tupper](https://www.adamtupper.nz/)           |                                                                   |        |
                      
 
 
