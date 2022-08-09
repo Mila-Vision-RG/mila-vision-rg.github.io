@@ -1,6 +1,6 @@
 ## Welcome
 
-This is the webpage for the computer vision reading groups at [Mila - Quebec AI Institute](https://mila.quebec/).
+This is the webpage for the computer vision reading group at [Mila - Quebec AI Institute](https://mila.quebec/).
 
 In our meetings, we present/discuss papers appearing in the leading computer vision conferences (e.g., CVPR, ICCV, ECCV, …) and machine learning conferences (e.g., NeurIPS, ICML, ICLR, AAAI, …) and also related ideas.
 
@@ -28,8 +28,8 @@ We generally hold our meetings weekly on Mondays. If you would like to join or g
 | <span style="font-size:0.9em;">11/07/2022</span> | [Sabyasachi Sahoo](https://sabyasachis.github.io/)      | [Generalized Out-of-Distribution Detection: A Survey](https://arxiv.org/abs/2110.11334)                                    | [link](https://docs.google.com/presentation/d/16kk_nqtkBoKbdz5mlqwJeDS6X2UgvH96X3qZQRIcgb0/edit?usp=sharing)   |
 | <span style="font-size:0.9em;">18/07/2022</span> | ICML                  | ICML                                                                                   |    -    |
 | <span style="font-size:0.9em;">25/07/2022</span> | [Aarash Feizi](https://aarashfeizi.github.io/)          | [Adversarial Masking for Self-Supervised Learning](https://arxiv.org/abs/2201.13100)                                       |  [link](https://docs.google.com/presentation/d/1vwmDGrJl29jzNtR3ilqMAmEIgxpeD_32dDO8t3lkex0/edit?usp=sharing)  |
-| <span style="font-size:0.9em;">08/08/2022</span> | [Muawiz Chaudhary](https://scholar.google.com/citations?user=4Z8ePskAAAAJ&hl=en)      |                      TBA                                             |        |
-| <span style="font-size:0.9em;">15/08/2022</span> | [Adam Tupper](https://www.adamtupper.nz/)           |                         TBA                                          |        |
+| <span style="font-size:0.9em;">08/08/2022</span> | [Muawiz Chaudhary](https://scholar.google.com/citations?user=4Z8ePskAAAAJ&hl=en)      |   [ImageNet-trained CNNs are biased towards texture](https://arxiv.org/abs/1811.12231) |    [link](https://docs.google.com/presentation/d/1nbrKvBKx_0d2f0yjpYSbtlgYPqhSv45E5Rc81SqBdP8/edit#slide=id.p)  |
+| <span style="font-size:0.9em;">15/08/2022</span> | Mats L. Richter           |   [Should You Go Deeper? Optimizing Convolutional Neural Network Architectures without Training](https://arxiv.org/abs/2106.12307)                  |                              |
                      
 
 
