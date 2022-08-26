@@ -30,6 +30,10 @@ We generally hold our meetings weekly on Mondays. If you would like to join or g
 | <span style="font-size:0.9em;">25/07/2022</span> | [Aarash Feizi](https://aarashfeizi.github.io/)          | [Adversarial Masking for Self-Supervised Learning](https://arxiv.org/abs/2201.13100)                                       |  [link](https://docs.google.com/presentation/d/1vwmDGrJl29jzNtR3ilqMAmEIgxpeD_32dDO8t3lkex0/edit?usp=sharing)  |
 | <span style="font-size:0.9em;">08/08/2022</span> | [Muawiz Chaudhary](https://scholar.google.com/citations?user=4Z8ePskAAAAJ&hl=en)      |   [ImageNet-trained CNNs are biased towards texture](https://arxiv.org/abs/1811.12231) |    [link](https://docs.google.com/presentation/d/1nbrKvBKx_0d2f0yjpYSbtlgYPqhSv45E5Rc81SqBdP8/edit#slide=id.p)  |
 | <span style="font-size:0.9em;">15/08/2022</span> | [Mats L. Richter](https://www.linkedin.com/in/dr-mats-l-richter-879609154/)           |   [Should You Go Deeper? Optimizing Convolutional Neural Network Architectures without Training](https://arxiv.org/abs/2106.12307)                  |                              |
+| <span style="font-size:0.9em;">29/08/2022</span> | [Andrey Zhmoginov](http://azhmogin.github.io/)           |   [HyperTransformer: Model Generation for Supervised and Semi-Supervised Few-Shot Learning](https://proceedings.mlr.press/v162/zhmoginov22a/zhmoginov22a.pdf)                  |                              |
+| <span style="font-size:0.9em;">12/09/2022</span> | [Oscar Mañas](https://oscmansan.github.io/)           |                     |                              |
+| <span style="font-size:0.9em;">19/09/2022</span> | [Vikram Voleti](https://voletiv.github.io/)           |                     |                              |
+
                      
 
 
