@@ -32,7 +32,8 @@ We generally hold our meetings weekly on Mondays. If you would like to join or g
 | <span style="font-size:0.9em;">15/08/2022</span> | [Mats L. Richter](https://www.linkedin.com/in/dr-mats-l-richter-879609154/)           |   [Should You Go Deeper? Optimizing Convolutional Neural Network Architectures without Training](https://arxiv.org/abs/2106.12307)                  |           [link](https://docs.google.com/presentation/d/1EqfA8hxFWZUI38xgzcuFrAVPTwdcZnyVjfzVeI09RHI/edit?usp=sharing)                   |
 | <span style="font-size:0.9em;">29/08/2022</span> | [Andrey Zhmoginov](http://azhmogin.github.io/)           |   [HyperTransformer: Model Generation for Supervised and Semi-Supervised Few-Shot Learning](https://proceedings.mlr.press/v162/zhmoginov22a/zhmoginov22a.pdf)                  |                              |
 | <span style="font-size:0.9em;">12/09/2022</span> | [Oscar Mañas](https://oscmansan.github.io/)           |    MAPL: Parameter-Efficient Adaptation of Unimodal Pre-Trained Models for Vision-Language Few-Shot Prompting       |                              |
-| <span style="font-size:0.9em;">19/09/2022</span> | [Vikram Voleti](https://voletiv.github.io/)           |     Tutorial on Score-Based Diffusion Models   |                              |
+| <span style="font-size:0.9em;">19/09/2022</span> | [Morteza Rezanejad](https://mrezanejad.github.io/)           |      Medial Spectral Coordinates for 3D Shape Analysis   |                              |
+<!-- | <span style="font-size:0.9em;">19/09/2022</span> | [Vikram Voleti](https://voletiv.github.io/)           |     Tutorial on Score-Based Diffusion Models   |                              | -->
 
                      
 
