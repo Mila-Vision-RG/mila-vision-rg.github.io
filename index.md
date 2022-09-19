@@ -16,7 +16,7 @@ In our meetings, we present/discuss papers appearing in the leading computer vis
 
 ### Schedule of talks
 
-We generally hold our meetings weekly on Mondays. If you would like to join or give a talk, send an [email](mailto:aarash.feizi@mail.mcgill.ca)! 
+We generally hold our meetings weekly on Tuesdays. If you would like to join or give a talk, send an [email](mailto:aarash.feizi@mail.mcgill.ca)! 
 
 | Date          | Presenter             | Title                                                                                  | Slides |
 |---------------|-----------------------|----------------------------------------------------------------------------------------|--------|
