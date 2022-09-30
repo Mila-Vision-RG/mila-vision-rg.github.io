@@ -34,6 +34,7 @@ We generally hold our meetings weekly on Tuesdays. If you would like to join or 
 | <span style="font-size:0.9em;">12/09/2022</span> | [Oscar Mañas](https://oscmansan.github.io/)           |    MAPL: Parameter-Efficient Adaptation of Unimodal Pre-Trained Models for Vision-Language Few-Shot Prompting       |                              |
 | <span style="font-size:0.9em;">19/09/2022</span> | [Morteza Rezanejad](https://mrezanejad.github.io/)           |      [Medial Spectral Coordinates for 3D Shape Analysis](https://arxiv.org/pdf/2111.13295.pdf)   |                              |
 | <span style="font-size:0.9em;">27/09/2022</span> | [Aarash Feizi](https://aarashfeizi.github.io/)           |      [Efficient Visual Pretraining with Contrastive Detection](https://arxiv.org/pdf/2103.10957.pdf)   |                              |
+| <span style="font-size:0.9em;">04/10/2022</span> | [Samuel Lavoie](https://mila.quebec/en/person/samuel-lavoie/)           |      [Simplicial Embeddings in Self-Supervised Learning and Downstream Classification](https://arxiv.org/pdf/2204.00616.pdf)   |                              |
 
 <!-- | <span style="font-size:0.9em;">19/09/2022</span> | [Vikram Voleti](https://voletiv.github.io/)           |     Tutorial on Score-Based Diffusion Models   |                              | -->
 
