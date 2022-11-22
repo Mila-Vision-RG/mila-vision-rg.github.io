@@ -37,6 +37,10 @@ We generally hold our meetings weekly on Tuesdays. If you would like to join or 
 | <span style="font-size:0.9em;">04/10/2022</span> | [Samuel Lavoie](https://mila.quebec/en/person/samuel-lavoie/)           |      [Simplicial Embeddings in Self-Supervised Learning and Downstream Classification](https://arxiv.org/pdf/2204.00616.pdf)   |                              |
 | <span style="font-size:0.9em;">11/10/2022</span> | [Mats L. Richter](https://www.linkedin.com/in/dr-mats-l-richter-879609154/)           |   Understanding Data Efficient Transformers      |                              |
 | <span style="font-size:0.9em;">25/10/2022</span> | [Randall Balestriero](https://randallbalestriero.github.io/)           |     Self-Supervised Learning: From Theory to Best Practices    |                              |
+| <span style="font-size:0.9em;">01/11/2022</span> | [Francesco Paissan](https://francescopaissan.it/)           |     Tiny architectures for Tiny Architectures    |                              |
+| <span style="font-size:0.9em;">08/11/2022</span> | [Nicolas Ballas](https://www.linkedin.com/in/nicolas-ballas-a188583/)           |     Recent Advances in Low-Shot Classification    |                              |
+| <span style="font-size:0.9em;">15/11/2022</span> | [Olivier J. Hénaff](https://www.olivierhenaff.com/)           |     The Virtuous Cycle of Object Discovery and Representation Learning    |                              |
+| <span style="font-size:0.9em;">22/11/2022</span> | [Sebastian Monka](https://scholar.google.de/citations?user=fngLmHgAAAAJ&hl=de&oi=ao)           |     Context-driven Visual Object Recognition based on Knowledge Graphs    |                              |
 
 <!-- | <span style="font-size:0.9em;">19/09/2022</span> | [Vikram Voleti](https://voletiv.github.io/)           |     Tutorial on Score-Based Diffusion Models   |                              | -->
 
