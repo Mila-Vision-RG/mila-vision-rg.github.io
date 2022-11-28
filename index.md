@@ -48,7 +48,7 @@ We generally hold our meetings weekly on Tuesdays. If you would like to join or 
 
 ### Contact
 
-This reading group is organized by [Aarash Feizi](https://aarashfeizi.github.io/), feel free to contact me at [Email](mailto:aarash.feizi@mail.mcgill.ca)!
+This reading group is organized by [Aarash Feizi](https://aarashfeizi.github.io/), feel free to contact me at this [email](mailto:aarash.feizi@mail.mcgill.ca)!
 
 [comment]: <> (```markdown)
 
