@@ -46,6 +46,12 @@ We generally hold our meetings weekly on Tuesdays. If you would like to join or 
 | <span style="font-size:0.9em;">17/01/2023</span> | [Ari Morcos](http://www.arimorcos.com/)           |     Beyond neural scaling laws: beating power law scaling via data pruning    |                              |
 | <span style="font-size:0.9em;">31/01/2023</span> | [Oren Kraus](https://scholar.google.ca/citations?user=FKjbtg8AAAAJ&hl=en)           |     Self Supervised Models for High Content Microscopy    |                              |
 | <span style="font-size:0.9em;">07/02/2023</span> | [Yuhui Zhang](https://cs.stanford.edu/~yuhuiz/)           |     Mind the Gap: Understanding the Modality Gap in Multi-modal Contrastive Representation Learning    |                              |
+| <span style="font-size:0.9em;">14/02/2023</span> | [Yann Dubois](https://yanndubs.github.io/)           |     Improving Self-Supervised Learning by Characterizing Idealized Representations    |                              |
+| <span style="font-size:0.9em;">21/02/2023</span> | [Ismail Elezi](https://scholar.google.com/citations?user=tpaCLrsAAAAJ&hl=en)           |     The Unreasonable Effectiveness of Fully-Connected Layers for Low-Data Regimes    |                              |
+| <span style="font-size:0.9em;">07/03/2023</span> | [Aarash Feizi](https://aarashfeizi.github.io/)           |     Last Layer Re-Training is Sufficient for Robustness to Spurious Correlations   |                              |
+| <span style="font-size:0.9em;">14/03/2023</span> | [Muawiz Chaudhary](https://scholar.google.com/citations?user=4Z8ePskAAAAJ&hl=en)           |     Investigating Prediction-Time Batch Normalization Under Label Shift   |                              |
+| <span style="font-size:0.9em;">28/03/2023</span> | [Simon Guiroy](https://simonguiroy.github.io/)           |     Improving Meta-Learning Generalization with Activation-Based Early-Stopping   |                              |
+| <span style="font-size:0.9em;">11/04/2023</span> | [Anas Mahmoud](https://www.linkedin.com/in/anasmahmoud/)           |     Self-Supervised Image-to-Point Distillation via Semantically Tolerant Contrastive Loss   |                              |
 
 <!-- | <span style="font-size:0.9em;">19/09/2022</span> | [Vikram Voleti](https://voletiv.github.io/)           |     Tutorial on Score-Based Diffusion Models   |                              | -->
 
