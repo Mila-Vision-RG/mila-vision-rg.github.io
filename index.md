@@ -41,6 +41,11 @@ We generally hold our meetings weekly on Tuesdays. If you would like to join or 
 | <span style="font-size:0.9em;">08/11/2022</span> | [Nicolas Ballas](https://www.linkedin.com/in/nicolas-ballas-a188583/)           |     Recent Advances in Low-Shot Classification    |                              |
 | <span style="font-size:0.9em;">15/11/2022</span> | [Olivier J. Hénaff](https://www.olivierhenaff.com/)           |     The Virtuous Cycle of Object Discovery and Representation Learning    |                              |
 | <span style="font-size:0.9em;">22/11/2022</span> | [Sebastian Monka](https://scholar.google.de/citations?user=fngLmHgAAAAJ&hl=de&oi=ao)           |     Context-driven Visual Object Recognition based on Knowledge Graphs    |                              |
+| <span style="font-size:0.9em;">13/12/2022</span> | [Adrien Bardes](https://scholar.google.com/citations?user=SvRU8F8AAAAJ&hl=en)           |     VICRegL: Self-Supervised Learning of Local Visual Features    |                              |
+| <span style="font-size:0.9em;">20/12/2022</span> | [Ishan Misra](https://imisra.github.io/)           |     General Purpose Vision Models and Emergent Behaviors    |                              |
+| <span style="font-size:0.9em;">17/01/2023</span> | [Ari Morcos](http://www.arimorcos.com/)           |     Beyond neural scaling laws: beating power law scaling via data pruning    |                              |
+| <span style="font-size:0.9em;">31/01/2023</span> | [Oren Kraus](https://scholar.google.ca/citations?user=FKjbtg8AAAAJ&hl=en)           |     Self Supervised Models for High Content Microscopy    |                              |
+| <span style="font-size:0.9em;">07/02/2023</span> | [Yuhui Zhang](https://cs.stanford.edu/~yuhuiz/)           |     Mind the Gap: Understanding the Modality Gap in Multi-modal Contrastive Representation Learning    |                              |
 
 <!-- | <span style="font-size:0.9em;">19/09/2022</span> | [Vikram Voleti](https://voletiv.github.io/)           |     Tutorial on Score-Based Diffusion Models   |                              | -->
 
